@@ -102,6 +102,7 @@ sub_ecosystems = [
   "GoblinGold",
   "Goki Protocol",
   "GooseFX",
+  "Golem Pay",
   "Grape Protocol",
   "GraphLinq Protocol",
   "Grim Syndicate",
@@ -76192,6 +76193,9 @@ url = "https://github.com/phuson/solana-pet-program"
 
 [[repo]]
 url = "https://github.com/phuson/summer-school-of-solana-2022"
+
+[[repo]]
+url = "https://github.com/phuphan301/golem-pay-later"
 
 [[repo]]
 url = "https://github.com/Phuture-Finance/yield-server"
